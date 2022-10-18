@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+<rosparam file="$(find smb_highlevel_controller/config/params.yaml)"/>
+    <arg name="laser_enabled" default="true"/>
+    <arg name="start_robot" default="false"/>
+    <arg name="auto_emergency" default="false"/>
+    <arg name="prior_collision" default="true"/>
+    <include file="$(find smb_gazebo)/launch/smb_gazebo.launch">
+        <!-- <arg name="world_file" value="$(find smb_gazebo)/worlds/big_map_summer_school.world"/> -->
+        <arg name="world_file" value="$(find smb_gazebo)/worlds/planner_tutorial.world"/>
+    </include>
+    <node name="smb_highlevel_controller_node" pkg="smb_highlevel_conroller" type="smb_highlevel_controller_node.cpp" output="screen"/>
+    <node name="teleop_twist_keyboard" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" output="screen"/>
+    <node type="rviz" name="rviz" pkg="rviz" args="-d $(find smb_highlevel_controller)/rviz/config_file.rviz" />
+</launch>

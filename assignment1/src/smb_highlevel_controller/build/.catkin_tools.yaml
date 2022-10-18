@@ -1,0 +1,6 @@
+devel_space: /home/harshit/smb_ws/src/smb_highlevel_controller/devel
+install: false
+install_space: /home/harshit/smb_ws/src/smb_highlevel_controller/install
+profile: default
+source_space: /home/harshit/smb_ws/src/smb_highlevel_controller/src
+workspace: /home/harshit/smb_ws/src/smb_highlevel_controller
