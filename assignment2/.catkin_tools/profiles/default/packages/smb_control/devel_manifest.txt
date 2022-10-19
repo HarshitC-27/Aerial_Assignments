@@ -1,0 +1,5 @@
+smb_control
+/home/harshit/Aerial_Assignments/assignment2/devel/.private/smb_control/cmake.lock /home/harshit/Aerial_Assignments/assignment2/devel/./cmake.lock
+/home/harshit/Aerial_Assignments/assignment2/devel/.private/smb_control/share/smb_control/cmake/smb_controlConfig-version.cmake /home/harshit/Aerial_Assignments/assignment2/devel/share/smb_control/cmake/smb_controlConfig-version.cmake
+/home/harshit/Aerial_Assignments/assignment2/devel/.private/smb_control/share/smb_control/cmake/smb_controlConfig.cmake /home/harshit/Aerial_Assignments/assignment2/devel/share/smb_control/cmake/smb_controlConfig.cmake
+/home/harshit/Aerial_Assignments/assignment2/devel/.private/smb_control/lib/pkgconfig/smb_control.pc /home/harshit/Aerial_Assignments/assignment2/devel/lib/pkgconfig/smb_control.pc

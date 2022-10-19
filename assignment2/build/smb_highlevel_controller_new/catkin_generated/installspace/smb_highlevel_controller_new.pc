@@ -1,0 +1,8 @@
+prefix=/home/harshit/Aerial_Assignments/assignment2/install
+
+Name: smb_highlevel_controller_new
+Description: Description of smb_highlevel_controller_new
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs

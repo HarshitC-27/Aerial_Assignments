@@ -1,0 +1,6 @@
+devel_space: /home/harshit/Aerial_Assignments/assignment1/devel
+install: false
+install_space: /home/harshit/Aerial_Assignments/assignment1/install
+profile: default
+source_space: /home/harshit/Aerial_Assignments/assignment1/src
+workspace: /home/harshit/Aerial_Assignments/assignment1

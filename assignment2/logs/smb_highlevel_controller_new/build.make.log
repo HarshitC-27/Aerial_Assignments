@@ -1,0 +1,5 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/smb_highlevel_controller_new.dir/src/smb_highlevel_controller_new_node.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/smb_highlevel_controller_new.dir/src/Scan2.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/smb_highlevel_controller_new.dir/src/smbHighlevelControllerNew.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/harshit/Aerial_Assignments/assignment2/devel/.private/smb_highlevel_controller_new/lib/smb_highlevel_controller_new/smb_highlevel_controller_new[0m
+[100%] Built target smb_highlevel_controller_new
