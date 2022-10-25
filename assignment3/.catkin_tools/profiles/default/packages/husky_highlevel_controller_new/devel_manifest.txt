@@ -1,0 +1,6 @@
+husky_highlevel_controller_new
+/home/harshit/task3/devel/.private/husky_highlevel_controller_new/cmake.lock /home/harshit/task3/devel/./cmake.lock
+/home/harshit/task3/devel/.private/husky_highlevel_controller_new/share/husky_highlevel_controller_new/cmake/husky_highlevel_controller_newConfig-version.cmake /home/harshit/task3/devel/share/husky_highlevel_controller_new/cmake/husky_highlevel_controller_newConfig-version.cmake
+/home/harshit/task3/devel/.private/husky_highlevel_controller_new/share/husky_highlevel_controller_new/cmake/husky_highlevel_controller_newConfig.cmake /home/harshit/task3/devel/share/husky_highlevel_controller_new/cmake/husky_highlevel_controller_newConfig.cmake
+/home/harshit/task3/devel/.private/husky_highlevel_controller_new/lib/pkgconfig/husky_highlevel_controller_new.pc /home/harshit/task3/devel/lib/pkgconfig/husky_highlevel_controller_new.pc
+/home/harshit/task3/devel/.private/husky_highlevel_controller_new/lib/husky_highlevel_controller_new/husky_highlevel_controller_new /home/harshit/task3/devel/lib/husky_highlevel_controller_new/husky_highlevel_controller_new

@@ -1,0 +1,4 @@
+[35m[1mConsolidate compiler generated dependencies of target smb_highlevel_controller[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/smb_highlevel_controller.dir/src/smbHighlevelController.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /home/harshit/task_c_1/devel/.private/smb_highlevel_controller/lib/smb_highlevel_controller/smb_highlevel_controller[0m
+[100%] Built target smb_highlevel_controller

@@ -1,1 +1,0 @@
-/home/harshit/Aerial_Assignments/assignment2/devel/.private/smb_highlevel_controller_new/lib/pkgconfig/smb_highlevel_controller_new.pc

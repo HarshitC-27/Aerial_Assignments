@@ -1,0 +1,6 @@
+smb_highlevel_controller_new
+/home/harshit/task3/devel/.private/smb_highlevel_controller_new/cmake.lock /home/harshit/task3/devel/./cmake.lock
+/home/harshit/task3/devel/.private/smb_highlevel_controller_new/share/smb_highlevel_controller_new/cmake/smb_highlevel_controller_newConfig.cmake /home/harshit/task3/devel/share/smb_highlevel_controller_new/cmake/smb_highlevel_controller_newConfig.cmake
+/home/harshit/task3/devel/.private/smb_highlevel_controller_new/share/smb_highlevel_controller_new/cmake/smb_highlevel_controller_newConfig-version.cmake /home/harshit/task3/devel/share/smb_highlevel_controller_new/cmake/smb_highlevel_controller_newConfig-version.cmake
+/home/harshit/task3/devel/.private/smb_highlevel_controller_new/lib/pkgconfig/smb_highlevel_controller_new.pc /home/harshit/task3/devel/lib/pkgconfig/smb_highlevel_controller_new.pc
+/home/harshit/task3/devel/.private/smb_highlevel_controller_new/lib/smb_highlevel_controller_new/smb_highlevel_controller_new /home/harshit/task3/devel/lib/smb_highlevel_controller_new/smb_highlevel_controller_new

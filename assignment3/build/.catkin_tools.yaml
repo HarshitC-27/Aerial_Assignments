@@ -1,0 +1,6 @@
+devel_space: /home/harshit/task_c_1/devel
+install: false
+install_space: /home/harshit/task_c_1/install
+profile: default
+source_space: /home/harshit/task_c_1/src
+workspace: /home/harshit/task_c_1

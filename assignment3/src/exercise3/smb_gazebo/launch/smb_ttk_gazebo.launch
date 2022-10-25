@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+    <arg name="start_robot" default="false"/>
+    <arg name="auto_emergency" default="false"/>
+    <arg name="prior_collision" default="true"/>
+    <include file="$(find smb_gazebo)/launch/smb_gazebo.launch">
+        <!-- <arg name="world_file" value="$(find smb_gazebo)/worlds/big_map_summer_school.world"/> -->
+        <arg name="world_file" value="$(find smb_gazebo)/worlds/planner_tutorial.world"/>
+    </include>
+    <node name="teleop_twist_keyboard" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" output="screen"/>
+</launch>

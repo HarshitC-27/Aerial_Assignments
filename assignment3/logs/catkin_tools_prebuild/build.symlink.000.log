@@ -1,0 +1,12 @@
+Symlinking /home/harshit/task_c/devel/./setup.bash
+Symlinking /home/harshit/task_c/devel/./env.sh
+Symlinking /home/harshit/task_c/devel/./local_setup.zsh
+Symlinking /home/harshit/task_c/devel/./local_setup.bash
+Symlinking /home/harshit/task_c/devel/./local_setup.sh
+Symlinking /home/harshit/task_c/devel/./_setup_util.py
+Symlinking /home/harshit/task_c/devel/./cmake.lock
+Symlinking /home/harshit/task_c/devel/./setup.zsh
+Symlinking /home/harshit/task_c/devel/./setup.sh
+Symlinking /home/harshit/task_c/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/harshit/task_c/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/harshit/task_c/devel/lib/pkgconfig/catkin_tools_prebuild.pc
